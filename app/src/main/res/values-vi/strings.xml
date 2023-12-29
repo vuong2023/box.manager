@@ -1,0 +1,78 @@
+<resources>
+    <!-- Các ứng dụng -->
+    <string name="app_name">BoxForRoot</string>
+    <string name="min_module_vrsion">20230814</string>
+    <string name="apps_count_list">Đã thêm %d ứng dụng trong chế độ %s</string>
+    <string name="no_apps_count_list">Chế độ %s</string>
+    <string name="ok">OK</string>
+    <string name="for_clash_only">chỉ hoạt động trên redir-host</string>
+    <string name="module_not_found">Không tìm thấy Module</string>
+    <string name="update_module">Vui lòng nâng cấp Module của bạn :)\nPhiên bản tối thiểu: %d</string>
+    <string name="module_repo_url">https://github.com/vuong2023/box_for_magisk</string>
+    <string name="release_repo_url">https://github.com/taamarin/box_for_magisk/releases</string>
+
+    <string name="success">Thành công</string>
+    <string name="failed">Thất bại</string>
+    <string name="home">Trang chủ</string>
+    <string name="dashboard">Bảng điều khiển</string>
+    <string name="app">Ứng dụng</string>
+
+    <!-- Cài đặt Dialog -->
+    <string name="select_core">Chọn lõi:</string>
+    <string name="clash_settings">Cài đặt clash:</string>
+    <string name="find_procces">Tìm quy trình</string>
+    <string name="clash_options">Tùy chọn clash</string>
+    <string name="unified_delay">Độ trễ thống nhất [meta]</string>
+    <string name="sniffer">Bộ giám sát mạng [meta]</string>
+    <string name="redir_host">Chuyển hướng máy chủ [meta]</string>
+    <string name="geodata_meta">Geodata [meta]</string>
+    <string name="subscription">Đăng ký</string>
+    <string name="module_settings">Cài đặt module:</string>
+    <string name="cgroup_settings">Nhóm điều kiển:</string>
+    <string name="memcg">Nhóm quản lý bộ nhớ:</string>
+    <string name="blkio">Blkio(Phân cấp IO):</string>
+    <string name="cpuset">Cpuset</string>
+    <string name="quic">Quic</string>
+    <string name="ipv6">IPv6</string>
+    <string name="port_detect">Phát hiện cổng</string>
+    <string name="crontab">Crontab</string>
+    <string name="geox">Geox</string>
+    <string name="networkmode">Chế độ mạng</string>
+    <string name="proxymode">Chế độ proxy</string>
+    <string name="check_module">Kiểm tra module</string>
+    <string name="myip">IP của tôi</string>
+    <string name="setting">Cài đặt</string>
+
+    <!-- Cài đặt Dialog -->
+    <string-array name="core_array">
+        <item>clash</item>
+        <item>sing-box</item>
+        <item>xray</item>
+        <item>v2fly</item>
+    </string-array>
+
+    <string-array name="proc_array">
+        <item>Tắt</item>
+        <item>Nghiêm ngặt</item>
+        <item>Luôn luôn</item>
+    </string-array>
+
+    <string-array name="clash_core_array">
+        <item>Premium</item>
+        <item>Mihomo</item>
+    </string-array>
+
+    <string-array name="network_array">
+        <item>Tproxy</item>
+        <item>Chuyển hướng</item>
+        <item>Kết hợp</item>
+    </string-array>
+
+    <string-array name="proxy_array">
+        <item>Tun(Cổng ảo)</item>
+        <item>Danh sách trắng</item>
+        <item>Danh sách đen</item>
+    </string-array>
+
+
+</resources>
