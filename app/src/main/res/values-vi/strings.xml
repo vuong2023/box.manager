@@ -1,6 +1,6 @@
 <resources>
     <!-- Các ứng dụng -->
-    <string name="app_name">BoxForRoot</string>
+    <string name="app_name">OHBRoot</string>
     <string name="min_module_vrsion">20230814</string>
     <string name="apps_count_list">Đã thêm %d ứng dụng trong chế độ %s</string>
     <string name="no_apps_count_list">Chế độ %s</string>
@@ -35,7 +35,7 @@
     <string name="quic">Quic</string>
     <string name="ipv6">IPv6</string>
     <string name="port_detect">Phát hiện cổng</string>
-    <string name="crontab">Crontab</string>
+    <string name="crontab">Lịch công việc</string>
     <string name="geox">Geox</string>
     <string name="networkmode">Chế độ mạng</string>
     <string name="proxymode">Chế độ proxy</string>
